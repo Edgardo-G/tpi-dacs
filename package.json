@@ -43,7 +43,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.3.3",
     "nodemailer": "^6.7.5",
-    "redis": "^4.1.0",
+    "redis": "^4.6.8",
     "payment": "^2.3.0",
     "sequelize": "^6.20.0",
     "sqlite3": "^5.0.8"
